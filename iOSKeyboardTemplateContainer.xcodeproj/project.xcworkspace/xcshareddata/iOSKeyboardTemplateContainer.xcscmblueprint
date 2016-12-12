@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "73E32B93C7142030018CCF9DAD6DA787FEC50376",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "55ADDB601B87F45428ADC586574C22B3A1AB4037" : 9223372036854775807,
+    "73E32B93C7142030018CCF9DAD6DA787FEC50376" : 9223372036854775807,
+    "FEBA7F4761ED4E804AC78D15BACB31A2F44D5B4F" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4B123E9F-BCEB-4BCC-9732-3780A43EF29F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "55ADDB601B87F45428ADC586574C22B3A1AB4037" : "",
+    "73E32B93C7142030018CCF9DAD6DA787FEC50376" : "ios-eight-ball-keyboard\/",
+    "FEBA7F4761ED4E804AC78D15BACB31A2F44D5B4F" : "iOSKeyboardTemplateContainer"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "iOSKeyboardTemplateContainer",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "iOSKeyboardTemplateContainer.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/onix-systems\/kaliapp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "55ADDB601B87F45428ADC586574C22B3A1AB4037"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Onix-Systems\/ios-eight-ball-keyboard.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "73E32B93C7142030018CCF9DAD6DA787FEC50376"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/bjhstudios\/iOSCustomKeyboard.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FEBA7F4761ED4E804AC78D15BACB31A2F44D5B4F"
+    }
+  ]
+}
